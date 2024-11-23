@@ -1,12 +1,12 @@
 {
   "name": "aquilo-thermometer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Aquilo Thermometer",
   "description": "Shows how much heat is required to keep your base from freezing.",
   "author": "Feidan",
   "contact": "Feidan#9851 on Factorio Discord",
   "dependencies": [
-    "space-age >= 2.0.0"
+    "space-age >= 2.0.21"
   ],
   "freezing_required": true,
   "factorio_version": "2.0"
